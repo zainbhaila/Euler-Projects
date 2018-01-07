@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+C:\EclipseWkOxygen64\Project Euler\.metadata\.plugins\org.eclipse.jdt.core
+3954492529.index
+968341608.index
+4094883802.index
+3802539119.index
+3634132350.index
